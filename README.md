@@ -1,72 +1,58 @@
-# Nishant Chandel - Software Engineer
+# 👋 Hello World! I'm Nishant Chandel
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](Your_LinkedIn_Profile_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-gray?style=flat-square&logo=github)](Your_GitHub_Profile_URL)
+## 💻 Full Stack Engineer | AI Enthusiast | Open Source Contributor
 
-## About Me
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
 
-I am a Software Engineer with experience in developing and implementing various web applications and AI solutions. My expertise spans both frontend and backend development, with a strong focus on creating efficient, scalable, and user-friendly applications.
+### 🚀 About Me
 
-## Technical Skills
+I'm a passionate Full Stack Developer with a keen interest in AI and modern web technologies. From crafting responsive UIs with React and Next.js to building robust backends with Python and Node.js, I love bringing ideas to life through code.
 
-**Frontend:**
-* HTML, CSS, JavaScript, Next.js, React.js, TailwindCSS, TypeScript, Cypress [cite: 2]
+- 🔭 Currently working on AI-powered tools and SAAS applications
+- 🌱 Always learning and exploring new technologies
+- 👨‍💻 Mentor at TheDevAngel, helping developers grow
+- 🤝 Open to collaborations on innovative projects
 
-**Backend:**
-* Python, Django, FastAPI, Node.js, Express.js, Celery, Redis, Docker, Cron Jobs, GraphQL [cite: 2]
+### 🛠️ Tech Stack
 
-**Databases:**
-* SQL, PostgreSQL, MongoDB, VectorDB [cite: 2]
+**Frontend:**  
+React.js, Next.js, TypeScript, TailwindCSS, Cypress
 
-**AI and Tools:**
-* AI Agents, OpenAI, Anthropic, Langchain, Git, GitHub, Jira, Linux [cite: 2]
+**Backend:**  
+Python, Django, FastAPI, Node.js, Express.js, GraphQL
 
-## Work Experience
+**AI & Tools:**  
+LangChain, OpenAI, Anthropic, AI Agents
 
-**Software Engineer | Pocket FM** *July 2024 - March 2025* [cite: 2]
+**Databases & Infrastructure:**  
+PostgreSQL, MongoDB, VectorDB, Docker, Redis
 
-* Migrated 50+ React components from JavaScript to TypeScript and achieved 80% test coverage using Cypress end-to-end testing. [cite: 2]
-    
-* Successfully implemented self-hosted TinyMCE editor across multiple company platforms, reducing licensing costs by 100%. [cite: 2]
-    
-* Developed a fully responsive promotional management platform from scratch using Next.js 15, React 19, and Tailwind CSS, automating the entire promo and ad system, targeting a 40% cost reduction. [cite: 2, 3]
-    
-* Improved Core Web Vitals score from 52 to 80 through optimized rendering and leveraging lazy loading. [cite: 3]
-    
-* Implemented GitHub Actions pipeline for TypeScript and ESLint checks, reducing review time by 60%. [cite: 3]
+### 🏆 Highlights
 
-**Backend Developer | Adaapt AI** *Jan 2024 - June 2024* [cite: 3]
+- 📈 Improved Core Web Vitals score from 52 to 80
+- 🤖 Developed AI SOP writer reducing manual creation time by 80%
+- 💼 Built AI-powered immigration chatbot using RAG ILM and Qdrant
+- 🧪 Achieved 80% test coverage with Cypress for large-scale apps
 
-* Implemented real-time chart generation, rendering large, dynamic datasets (1M+ records) in under 500 ms. [cite: 3, 4]
-    
-* Deployed and maintained virtual machines and servers, ensuring 99.9% uptime. [cite: 4]
-    
-* Built a Python-based query engine using NLP, achieving 85% query accuracy. [cite: 5]
+### 🔥 Featured Projects
 
-**Full Stack Developer Intern | Future First Immigration** *Sept 2022 - Oct 2023* [cite: 5, 6]
+#### The Dev Starter
+A comprehensive SAAS boilerplate combining Django, Next.js, and PostgreSQL with features like payment integration, authentication, blog functionality, and more.
 
-* Developed AI SOP writer Tootler.ai, cutting manual SOP creation time by 80%. [cite: 6]
-    
-* Developed landing page and core dashboard for SOP creation, plus immigration chatbot using RAG ILM and Qdrant, reducing user queries by 70%. [cite: 6]
-    
-* Integrated Stripe payment gateway, managing products and implementing webhook handling for subscriptions. [cite: 6]
+#### Tootler.ai
+AI-powered SOP writer that cuts manual creation time by 80%.
 
-**Devangel Projects | The Dev Starter**
+### 📫 Let's Connect
 
-* Crafted a SAAS boilerplate integrating Django with Python and Next.js with PostgreSQL database. [cite: 6]
-    
-* Implemented features including Payments, Authentication, Blog, Django Administration, MagicLink, and Dashboard Settings. [cite: 6]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishantchandel/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishantxchandel@gmail.com)
 
-## Education
+---
 
-| Qualification                        | Year       | Institution                  | Details      |
-| :----------------------------------- | :--------- | :--------------------------- | :----------- |
-| B.Tech in Computer Science and Engineering | 2020-2024  | Punjabi University, Patiala   | CGPA: 9.0    |
-| +2 in Non-Medical                    | 2019-2020  | Shivalik Model SR. SEC School | Percentage: 93% | [cite: 7]
-
-## Additional Information
-
-* Mentor at TheDevAngel, guiding and helping fellow developers in the community. [cite: 8]
-* Open Source Contributor at Vedvyas, contributed to the development of Bhagavad Gita. [cite: 8]
-
-Feel free to reach out to me!
+> "Code is like humor. When you have to explain it, it's bad." - Cory House
